@@ -1,11 +1,10 @@
-![image](https://github.com/user-attachments/assets/41cbf825-944b-4d3e-9a17-ef8d8f06fedf)# SabhaSthal V1
+# SabhaSthal V1
 
 **SabhaSthal** is a peer-to-peer video conferencing web application that enables real-time video communication and chat among users. This initial version (V1) of SabhaSthal is built with Node.js, Socket.IO, and React, using WebRTC for seamless, high-quality video streaming. The app supports video calls, direct chat, and an interactive UI for connecting users effortlessly.
 
 ![Recipe Website Screenshot](https://github.com/pushan-alagiya/SabhaSthal-V1/blob/main/Screenshot%20From%202024-11-09%2021-44-35.png?raw=true)
 
 ![Recipe Website Screenshot](https://github.com/pushan-alagiya/SabhaSthal-V1/blob/main/Screenshot%20From%202024-11-09%2021-47-59.png?raw=true)
-
 
 ## Features
 
